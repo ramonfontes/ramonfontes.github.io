@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-unicamp
 venue: "UNICAMP"
-date: 2015-02-01 to 2015-07-01
+date: 2015-02-01
 #location: "City, Country"
 ---
