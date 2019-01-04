@@ -13,11 +13,13 @@ Education
 ======
 * B.S. in Information Systems, FTC, 2009
 * M.S. in Systems and Computing, Unifacs, 2014
+* Ph.D visiting, INRIA, 2017
 * Ph.D in Computer Engineering, Unicamp, 2018
 
 Work experience
 ======
-* XX
+* IFBA, since 2011
+* SENAI, 2010
   
 Skills
 ======
