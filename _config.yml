@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Ramon Fontes"
+title                    : "Prof. Ramon Fontes"
 title_separator          : "-"
 name                     : &name "Ramon Fontes"
 description              : &description "Research at IFBA"
