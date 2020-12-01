@@ -18,8 +18,9 @@ Education
 
 Work experience
 ======
-* IFBA, since 2011
-* SENAI, 2010
+* UFRN (since 07/2020)
+* IFBA (2011-2020)
+* SENAI (2010)
   
 Skills
 ======
@@ -27,6 +28,7 @@ Skills
 * Programming Languages
   * Python
   * C, C++
+  * Java
 * Containers
 * SDN/NFV
 
