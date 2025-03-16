@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prof. Ramon Fontes"
 title_separator          : "-"
 name                     : &name "Ramon Fontes"
-description              : &description "Research at IFBA"
+description              : &description "Research at UFRN"
 url                      : https://ramonfontes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ramonfontes.github.io"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ramon-fontes/"
   orcid            : "https://orcid.org/0000-0003-0012-4284"
   pinterest        :
   soundcloud       :
@@ -178,9 +178,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -188,17 +185,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -224,15 +210,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
